@@ -8,4 +8,5 @@ On top of Kickstart's plugins it has:
 - nullls.nvim (RIP)
 - undotree.vim
 
+Also it's fully transparent.
 Its sealed for now, I don't think I will reconfigure any time soon.
